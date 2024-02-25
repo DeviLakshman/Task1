@@ -1,5 +1,4 @@
 # Git
-
 - Resources:
 - 
   - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main.
